@@ -2,3 +2,13 @@ GIT
 
 www.github.com (Anfebule-Cronos890712)
 git clone --> descargar repositorio
+
+----> solo una vez <----
+
+git add .
+git commit -m "jojojo"  //Comentar
+
+git config --global user.name "Anfebule"
+git config --global user.email "i_has_you@hotmail.com"
+git push origin master //Sube cambios con comentario
+
